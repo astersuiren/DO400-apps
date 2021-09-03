@@ -17,7 +17,6 @@ sh "npm run build"
 }
 }
 }
-}
 
 
 
